@@ -26,7 +26,7 @@ const cubeMaterials = [
     new THREE.MeshBasicMaterial({ map: new THREE.TextureLoader().load('humble_ft.jpg'), side: THREE.DoubleSide }),
     new THREE.MeshBasicMaterial({ map: new THREE.TextureLoader().load('humble_bk.jpg'), side: THREE.DoubleSide }),
     new THREE.MeshBasicMaterial({ map: new THREE.TextureLoader().load('humble_up.jpg'), side: THREE.DoubleSide }),
-    new THREE.MeshBasicMaterial({ map: new THREE.TextureLoader().load('img/humble_dn.jpg'), side: THREE.DoubleSide }),
+    new THREE.MeshBasicMaterial({ map: new THREE.TextureLoader().load('humble_dn.jpg'), side: THREE.DoubleSide }),
     new THREE.MeshBasicMaterial({ map: new THREE.TextureLoader().load('humble_rt.jpg'), side: THREE.DoubleSide }),
     new THREE.MeshBasicMaterial({ map: new THREE.TextureLoader().load('humble_lf.jpg'), side: THREE.DoubleSide })
 ];
